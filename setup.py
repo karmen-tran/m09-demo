@@ -8,5 +8,5 @@ setup(
     author='Karmen Tran',
     author_email='aqq2ex@virginia.edu',
     license='MIT',
-    packages=['demo']
+    packages=['booklover']
 )
